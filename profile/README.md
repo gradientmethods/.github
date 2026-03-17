@@ -1,6 +1,6 @@
 # Gradient Methods
 
-We design, architect, and build applied AI systems and cloud-native platforms for companies that need to scale.
+**Gradient Methods is an applied AI and cloud design and architecture firm.** We build scalable AI systems and cloud-native platforms, particularly for companies with unique or high-scale needs.
 
 Founded by Joshua, a hands-on technologist with 15+ years of experience across early-stage startups, large enterprises, and federal agencies. Joshua has worked with 70+ organizations over the past decade and a half solving hard problems in generative AI, distributed systems, and cloud infrastructure.
 
